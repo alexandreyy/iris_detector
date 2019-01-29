@@ -1,0 +1,4 @@
+Para compilar faça
+
+make iftTrainForIrisDetection
+make iftDetectIris
